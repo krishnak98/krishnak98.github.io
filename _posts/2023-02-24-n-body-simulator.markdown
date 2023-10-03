@@ -13,6 +13,7 @@ author: krishnakamath
 externalLink: false
 ---
 
+## Summary
 
 Example of project - Indigo Minimalist Jekyll Template - [Demo](https://sergiokopplin.github.io/indigo/). Test Proj
 
