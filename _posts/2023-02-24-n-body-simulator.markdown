@@ -15,20 +15,16 @@ externalLink: false
 
 ## Summary
 
-Example of project - Indigo Minimalist Jekyll Template - [Demo](https://sergiokopplin.github.io/indigo/). Test Proj
+Various implementations of simulating the gravitational interaction of particles in space. 
+Implementations include: 
+1. Naive implementation in C
+2. Multi-core implementation using OpenMP
+3. MPI implementation 
+4. CUDA implementation on GPU
 
 ---
 
-What has inside?
+## Links
 
-- Gulp
-- BrowserSync
-- Stylus
-- SVG
-- No JS
-- [98/100](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F)
-
+[Github repo](https://github.com/krishnak98/)
 ---
-
-[Check it out](https://sergiokopplin.github.io/indigo/) here.
-If you need some help, just [tell me](https://github.com/sergiokopplin/indigo/issues).
