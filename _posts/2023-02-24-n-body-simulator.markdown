@@ -2,7 +2,7 @@
 title: "N-body simulator"
 layout: post
 date: 2016-01-23 22:10
-tag: C,Physics
+tag: [C,Physics]
 image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
 # headerImage: true
 projects: true
