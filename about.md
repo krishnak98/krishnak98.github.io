@@ -4,8 +4,7 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Hello! I am a Master's student at the University of Chicago where I study Computer Science, specializing in High Performance Computing. Previously, I was a Software Engineer at Arcesium. 
-.</p>
+<p>Hello! I am a Computer Science Master's student at the University of Chicago, specializing in High Performance Computing. Previously, I was a Software Engineer at Arcesium.</p>
 
 
 <h2>Skills</h2>
