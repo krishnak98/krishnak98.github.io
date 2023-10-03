@@ -19,5 +19,5 @@ layout: page
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="/test-proj">Test Proj</a></li>
+	<li><a href="/n-body-simulator/">N-body simulator</a></li>
 </ul>
