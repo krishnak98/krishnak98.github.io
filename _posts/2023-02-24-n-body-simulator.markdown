@@ -7,7 +7,7 @@ tag: [C, CUDA, MPI,  Physics]
 # headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "N-body simulator."
+description: "N-body simulator"
 category: project
 author: krishnakamath
 externalLink: false
@@ -24,7 +24,9 @@ Implementations include:
 
 ---
 
+
+---
+
 ## Links
 
 [Github repo](https://github.com/krishnak98/)
----

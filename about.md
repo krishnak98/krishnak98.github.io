@@ -20,4 +20,5 @@ layout: page
 
 <ul>
 	<li><a href="/n-body-simulator/">N-body simulator</a></li>
+	<li><a href="/travelling-salesman/">Travelling Salesman</a></li>
 </ul>
