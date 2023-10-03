@@ -1,5 +1,5 @@
 ---
-title: "Travelling Salesman Optimizations"
+title: "Optimizations for Traveling Salesman Problem"
 layout: post
 date: 2021-12-20 22:10
 tag: [C++, Optimization, Graphs]
@@ -7,7 +7,7 @@ tag: [C++, Optimization, Graphs]
 # headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "N-body simulator"
+description: "Optimizations for Traveling Salesman Problem"
 category: project
 author: krishnakamath
 externalLink: false
