@@ -1,8 +1,8 @@
 ---
-title: "Optimizations for Traveling Salesman Problem"
+title: "Optimizations for the Traveling Salesman Problem"
 layout: post
 date: 2021-12-20 22:10
-tag: [C++, Optimization, Graphs]
+tag: [C++, Algorithms, Optimization, Graphs]
 # image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
 # headerImage: true
 projects: true

@@ -1,7 +1,7 @@
 ---
 title: "N-body simulator"
 layout: post
-date: 2016-01-23 22:10
+date: 2023-02-24 22:10
 tag: [C, CUDA, MPI,  Physics]
 # image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
 # headerImage: true
