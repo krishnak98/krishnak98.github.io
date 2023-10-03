@@ -1,7 +1,7 @@
 ---
 title: "Cache Emulator"
 layout: post
-date: 2021-12-20 22:10
+date: 2023-01-01 22:10
 tag: [Python]
 # image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
 # headerImage: true
