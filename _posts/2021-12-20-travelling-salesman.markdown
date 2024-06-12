@@ -16,11 +16,6 @@ externalLink: false
 ## Summary
 
 Various optimizations of the classic NP-hard Travelling Salesman Problem, such as Ant Colony Optimization and 2-opt.
-<!-- 
----
-
-
---- -->
 
 ## Links
 
