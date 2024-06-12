@@ -21,11 +21,6 @@ Implementations include:
 2. Multi-core implementation using OpenMP
 3. MPI implementation 
 4. CUDA implementation on GPU
-<!-- 
----
-
-
---- -->
 
 ## Links
 

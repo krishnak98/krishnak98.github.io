@@ -15,12 +15,10 @@ externalLink: false
 
 ## Summary
 
-CPU Emulator
-
-<!-- ---
-
-
---- -->
+Designed and implemented a CPU emulator with physical memory addressing and a single-level cache, and
+executed programs written in pseudo-assembly instructions.
+Engineered a dynamic cache system with configurable RAM, cache, and block sizes, supporting various
+associativity (direct mapped, fully associative, n-way) and block replacement policies (LRU and FIFO).
 
 ## Links
 
