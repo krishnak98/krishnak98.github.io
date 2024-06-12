@@ -1,7 +1,7 @@
 ---
 title: "LLM Chatbot using RAG"
 layout: post
-date: 2021-12-20 22:10
+date: 2023-08-24 22:10
 tag: [Python, Flask, machine learning, LLM, RAG]
 # image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
 # headerImage: true
