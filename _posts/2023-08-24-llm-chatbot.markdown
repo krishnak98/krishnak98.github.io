@@ -24,4 +24,4 @@ Designed and implemented a Chrome chatbot extension using Retrieval Augmented Ge
 
 ## Links
 
-[Github repo](https://github.com/krishnak98/Travelling-Salesman-Problem)
+[Github repo](https://github.com/krishnak98/SidePanel)
