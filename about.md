@@ -12,7 +12,7 @@ I am currently working as a researcher at Depaul University under Prof. Tanu Mal
 
 <p>
 I enjoy participating in competitive programming, solving math and logic puzzles.
-In my free time, I also play ultimate frisbee and chess.
+In my free time, I also play ultimate frisbee and chess(<a href="https://lichess.org/@/kkj98">Lichess</a>).
 </p>
 
 
