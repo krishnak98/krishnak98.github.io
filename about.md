@@ -33,4 +33,5 @@ In my free time, I also play ultimate frisbee(<a href="https://fissionultimate.w
 	<li><a href="/n-body-simulator/">N-body simulator</a></li>
 	<li><a href="/cache-emulator/">Cache Emulator</a></li>
 	<li><a href="/travelling-salesman/">Travelling Salesman</a></li>
+	<li><a href="/llm-chatbot/">LLM Chatbot</a></li>
 </ul>
