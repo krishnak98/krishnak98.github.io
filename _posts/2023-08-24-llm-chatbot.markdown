@@ -16,11 +16,11 @@ externalLink: false
 ## Summary
 
 Designed and implemented a Chrome chatbot extension using Retrieval Augmented Generation, leveraging document chunking and vector embeddings to assist users with product inquiries on e-commerce websites
-
+<!-- 
 ---
 
 
----
+--- -->
 
 ## Links
 
