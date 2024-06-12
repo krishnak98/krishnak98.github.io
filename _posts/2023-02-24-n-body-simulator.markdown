@@ -17,7 +17,7 @@ externalLink: false
 
 Various implementations of simulating the gravitational interaction of particles in space. 
 Implementations include: 
-1. Naive implementation in C
+1. Barnes Hut approximation algorithm in C
 2. Multi-core implementation using OpenMP
 3. MPI implementation 
 4. CUDA implementation on GPU
