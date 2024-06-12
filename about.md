@@ -7,7 +7,7 @@ layout: page
 <p>Hello! I am a MSCS graduate from the University of Chicago, where I specialized in High Performance Computing. Previously, I worked as a Software Engineer at Arcesium.</p>
 
 <p>
-I am currently on the lookout for SWE and Quant jobs. Please reach out over email to get in touch. 
+I am currently working as a researcher at Depaul University under Prof. Tanu Malik, on computational reproducibility. 
 </p>
 
 <h2>Skills</h2>
