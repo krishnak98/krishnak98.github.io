@@ -12,6 +12,8 @@ I am currently working as a researcher at Depaul University under Prof. Tanu Mal
 
 <p>
 I enjoy participating in competitive programming, solving math and logic puzzles.
+</p>
+<p>
 In my free time, I also play ultimate frisbee(<a href="https://fissionultimate.weebly.com/">Fission</a> ) and chess(<a href="https://lichess.org/@/kkj98">Lichess</a>)(<a href="https://www.chess.com/member/krishnakamath">Chess.com</a>).
 </p>
 
