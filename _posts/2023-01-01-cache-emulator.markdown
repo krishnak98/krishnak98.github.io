@@ -1,5 +1,5 @@
 ---
-title: "Cache Emulator"
+title: "CPU Emulator"
 layout: post
 date: 2023-01-01 22:10
 tag: [Python]
@@ -7,7 +7,7 @@ tag: [Python]
 # headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "Cache Emulator"
+description: "CPU Emulator"
 category: project
 author: krishnakamath
 externalLink: false
@@ -15,12 +15,12 @@ externalLink: false
 
 ## Summary
 
-Cache Emulator
+CPU Emulator
 
----
+<!-- ---
 
 
----
+--- -->
 
 ## Links
 
