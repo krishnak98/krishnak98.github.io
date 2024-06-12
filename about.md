@@ -10,6 +10,12 @@ layout: page
 I am currently working as a researcher at Depaul University under Prof. Tanu Malik, on computational reproducibility. 
 </p>
 
+<p>
+I enjoy participating in competitive programming, solving math and logic puzzles.
+In my free time, I also play ultimate frisbee and chess.
+</p>
+
+
 <h2>Skills</h2>
 
 <ul class="skill-list">
