@@ -1,5 +1,5 @@
 ---
-title: "Optimizations for the Traveling Salesman Problem"
+title: "Optimizations to the Traveling Salesman Problem"
 layout: post
 date: 2021-12-20 22:10
 tag: [C++, Algorithms, Optimization, Graphs]
@@ -7,7 +7,7 @@ tag: [C++, Algorithms, Optimization, Graphs]
 # headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "Optimizations for Traveling Salesman Problem"
+description: "Optimizations to Traveling Salesman Problem"
 category: project
 author: krishnakamath
 externalLink: false
